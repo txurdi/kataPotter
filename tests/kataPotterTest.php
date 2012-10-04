@@ -1,5 +1,5 @@
 <?php
-include_once "kataPotter.php";
+include_once "../kataPotter.php";
 
 
 class kataPotterTest extends PHPUnit_Framework_TestCase {
